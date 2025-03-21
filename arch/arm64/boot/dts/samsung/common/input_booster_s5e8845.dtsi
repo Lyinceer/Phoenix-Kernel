@@ -183,13 +183,13 @@
 					resource@1 {
 						resource,label = "cluster2";
 						resource,id = "0";
-						resource,value = <1248000 1152000>;
+						resource,value = <1500000 1300000>;
 					};
 
 					resource@4 {
 						resource,label = "mif";
 						resource,id = "3";
-						resource,value = <1014000 1014000>;
+						resource,value = <1200000 1200000>;
 					};
 
 					resource@5 {
@@ -214,13 +214,13 @@
 					resource@1 {
 						resource,label = "cluster2";
 						resource,id = "0";
-						resource,value = <1920000 1344000>;
+						resource,value = <1920000 1400000>;
 					};
 
 					resource@4 {
 						resource,label = "mif";
 						resource,id = "3";
-						resource,value = <1014000 1014000>;
+						resource,value = <1300000 1300000>;
 					};
 
 					resource@5 {
@@ -307,13 +307,13 @@
 					resource@1 {
 						resource,label = "cluster2";
 						resource,id = "0";
-						resource,value = <1344000 0>;
+						resource,value = <1400000 0>;
 					};
 
 					resource@4 {
 						resource,label = "mif";
 						resource,id = "3";
-						resource,value = <1014000 0>;
+						resource,value = <1200000 0>;
 					};
 
 					resource@5 {
