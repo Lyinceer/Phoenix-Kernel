@@ -55,7 +55,7 @@
 			min-target-period	= <     4      4>;
 			min-target-ratio	= <    20     20>;
 
-			max-freq		= <2050000 2750000>;
+			max-freq		= <2100000 2850000>;
 			max-target-period	= <      4       4>;
 			max-target-ratio	= <     80      80>;
 
